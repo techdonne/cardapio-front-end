@@ -17,7 +17,7 @@ Primeiro, você deve clonar o projeto na sua máquina, para isso você
 pode colar o seguinte comando em seu terminal
 
 ```bash
-git clone git@github.com:techdonne/cardapio-front-end.git
+git clone https://github.com/techdonne/cardapio-front-end.git
 cd cardapio-front-end
 ```
 
